@@ -23,8 +23,8 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
 ## Our Amazing Contributors 
 
-<a href="https://github.com/impu/Halo-Semesta25/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=impu/Halo-Semesta25" />
+<a href="https://github.com/lmpu/Halo-Semesta25/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=lmpu/Halo-Semesta25" />
 </a>
 
 <br>
@@ -35,9 +35,9 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
 <img src="https://img.shields.io/badge/hacktoberfest2025--blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
- <a href="https://github.com/impu" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
+ <a href="https://github.com/lmpu" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
-<a href="https://github.com/impu/Halo-Semesta25/pulls"><img src="https://img.shields.io/github/issues-pr/impu/Halo-Semesta25" alt="Pull Requests Badge"/></a>
-<a href="https://github.com/impu/Halo-Semesta25/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/impu/Halo-Semesta25?color=2b9348"></a>
+<a href="https://github.com/lmpu/Halo-Semesta25/pulls"><img src="https://img.shields.io/github/issues-pr/lmpu/Halo-Semesta25" alt="Pull Requests Badge"/></a>
+<a href="https://github.com/lmpu/Halo-Semesta25/graphs/contributors"><img alt="GitHub contributors" src="https://img.shields.io/github/contributors/lmpu/Halo-Semesta25?color=2b9348"></a>
 
 </div>
