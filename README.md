@@ -1,6 +1,6 @@
-# Halo-Dunia `HacktoberFest 2024` Repositories ✨
+# Halo-Dunia `HacktoberFest 2025` Repositories ✨
 
-![HacktoberFest](https://github.com/newridho/Halo-Dunia24/raw/main/.github/logo.png)
+![HacktoberFest](https://raw.githubusercontent.com/lmpu/Halo-Semesta25/refs/heads/main/.github/Screenshot_2025-09-25-09-38-41-69_40deb401b9ffe8e1df2f1cc5ba480b12.jpg)
 
 ## This Project Is Perfect For Your Pull Request
 
@@ -33,7 +33,7 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 
 <div align="center">
 
-<img src="https://img.shields.io/badge/hacktoberfest2024--blueviolet" alt="Hacktober Badge"/>
+<img src="https://img.shields.io/badge/hacktoberfest2025--blueviolet" alt="Hacktober Badge"/>
  <img src="https://img.shields.io/static/v1?label=%F0%9F%8C%9F&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
  <a href="https://github.com/impu" ><img src="https://img.shields.io/badge/Contributions-welcome-violet.svg?style=flat&logo=git" alt="Contributions" /></a>
 
