@@ -19,7 +19,7 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/impu/Halo-Semesta25.git
+git clone https://github.com/lmpu/Halo-Semesta25.git
 ```
 - Navigate to project directory.
 ```terminal
@@ -57,7 +57,7 @@ git push origin my-new-branch
 An easy way to avoid conflicts is to add an 'upstream' for your git repo, as other PR's may be merged while you're working on your branch/fork.   
 
 ```terminal
-git remote add upstream https://github.com/impu/Halo-Semesta25
+git remote add upstream https://github.com/lmpu/Halo-Semesta25
 ```
 
 You can verify that the new remote has been added by typing
