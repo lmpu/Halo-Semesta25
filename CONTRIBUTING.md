@@ -19,8 +19,9 @@ If you have any questions, please check our [FAQs](Faqs.md) for answers.
 - Clone on your local machine
 
 ```terminal
-git clone https://github.com/lmpu/Halo-Semesta25.git
+git clone https://github.com/<username>/Halo-Semesta25.git
 ```
+Note: Use your git username, you can see that in the URL of your fork.
 - Navigate to project directory.
 ```terminal
 cd Halo-Semesta25
